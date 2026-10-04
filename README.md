@@ -120,3 +120,56 @@ The project includes an interactive **Streamlit dashboard** with:
 
 ---
 
+## 🚀 Run the Project Locally
+
+Step 1: Clone the Repository
+
+     git clone https://github.com/kadintimitravinda/Netflix-Content-Intelligence.git
+
+Step 2: Navigate to the Project Directory
+
+     cd Netflix-Content-Intelligence
+
+Step 3: Create a Virtual Environment
+
+    python -m venv venv
+
+Step 4: Activate the Virtual Environment
+
+    .\venv\Scripts\Activate.ps1
+
+Step 5: Install Required Dependencies
+
+    pip install -r requirements.txt
+
+Step 6: Run the Streamlit Dashboard
+
+    streamlit run dashboards/app.py
+
+The dashboard will open at:    http://localhost:8501
+
+---
+
+## 💡 Key Insights
+
+The analysis provides insights into:
+
+ - Netflix's distribution of Movies and TV Shows
+ - Popular content ratings
+ - Release-year distribution
+ - Differences between Movies and TV Shows
+ - Year-wise content additions
+ - Monthly content addition patterns
+
+---
+
+## 👩‍💻 Author
+
+Kadintimitravinda
+
+AI & Data Science Student at
+Vishnu Institute of Technology
+
+GitHub:  https://github.com/kadintimitravinda
+
+---
